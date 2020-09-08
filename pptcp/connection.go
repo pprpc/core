@@ -7,7 +7,7 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"xcthings.com/hjyz/common"
+	"github.com/pprpc/util/common"
 )
 
 // CloseCallback 连接断开回调定义

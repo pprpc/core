@@ -10,9 +10,9 @@ import (
 
 	"github.com/golang/protobuf/proto"
 
-	"xcthings.com/hjyz/logs"
-	"xcthings.com/pprpc/packets"
-	"xcthings.com/pprpc/pptcp"
+	"github.com/pprpc/util/logs"
+	"github.com/pprpc/packets"
+	"github.com/pprpc/pptcp"
 )
 
 // RPCTCPServer TCP服务对象

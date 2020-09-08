@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	"xcthings.com/hjyz/common"
+	"github.com/pprpc/util/common"
 )
 
 // ClientConn Client连接结构体.

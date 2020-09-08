@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"io"
 
-	"xcthings.com/hjyz/common"
+	"github.com/pprpc/util/common"
 )
 
 // HBPacket 心跳报文结构体

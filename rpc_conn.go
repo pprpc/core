@@ -5,7 +5,7 @@ import (
 	"net"
 	"time"
 
-	"xcthings.com/pprpc/packets"
+	"github.com/pprpc/packets"
 )
 
 // RPCConn 定义RPC连接

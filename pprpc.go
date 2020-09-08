@@ -4,8 +4,8 @@ import (
 	"fmt"
 
 	"github.com/golang/protobuf/proto"
-	"xcthings.com/pprpc/packets"
-	"xcthings.com/pprpc/ppudp"
+	"github.com/pprpc/packets"
+	"github.com/pprpc/ppudp"
 )
 
 type pkgCallBack func(packets.PPPacket, RPCConn) error

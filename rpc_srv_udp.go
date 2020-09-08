@@ -7,9 +7,9 @@ import (
 	"sync/atomic"
 
 	"github.com/golang/protobuf/proto"
-	"xcthings.com/hjyz/logs"
-	"xcthings.com/pprpc/packets"
-	"xcthings.com/pprpc/ppudp"
+	"github.com/pprpc/util/logs"
+	"github.com/pprpc/packets"
+	"github.com/pprpc/ppudp"
 )
 
 // RPCUDPServer TCP服务对象

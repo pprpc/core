@@ -3,7 +3,7 @@ package pprpc
 import (
 	"sync"
 
-	"xcthings.com/pprpc/packets"
+	"github.com/pprpc/packets"
 )
 
 type cmdHandler func(interface{}, RPCConn, *packets.CmdPacket, bool, func(interface{}) error) (interface{}, error)

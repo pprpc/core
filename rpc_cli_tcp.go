@@ -11,10 +11,10 @@ import (
 	"time"
 
 	"github.com/golang/protobuf/proto"
-	"xcthings.com/hjyz/common"
-	"xcthings.com/hjyz/logs"
-	"xcthings.com/pprpc/packets"
-	"xcthings.com/pprpc/pptcp"
+	"github.com/pprpc/util/common"
+	"github.com/pprpc/util/logs"
+	"github.com/pprpc/packets"
+	"github.com/pprpc/pptcp"
 )
 
 // TCPCliConn PPRPC TCP 连接.

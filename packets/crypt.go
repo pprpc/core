@@ -3,7 +3,7 @@ package packets
 import (
 	"fmt"
 
-	ppcrypto "xcthings.com/hjyz/crypto"
+	ppcrypto "github.com/pprpc/util/crypto"
 )
 
 // Encrypt 加密数据.

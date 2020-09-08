@@ -6,7 +6,7 @@ import (
 	"io"
 
 	"github.com/golang/protobuf/proto"
-	ppcrypto "xcthings.com/hjyz/crypto"
+	ppcrypto "github.com/pprpc/util/crypto"
 )
 
 // CmdPacket 控制报文

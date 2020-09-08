@@ -8,7 +8,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"xcthings.com/hjyz/common"
+	"github.com/pprpc/util/common"
 )
 
 // CloseCallback 连接端口回调定义

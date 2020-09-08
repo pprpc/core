@@ -6,7 +6,7 @@ import (
 	"io"
 
 	"github.com/golang/protobuf/proto"
-	"xcthings.com/hjyz/common"
+	"github.com/pprpc/util/common"
 )
 
 /*

@@ -9,9 +9,9 @@ import (
 	"time"
 
 	"github.com/golang/protobuf/proto"
-	"xcthings.com/hjyz/logs"
-	"xcthings.com/pprpc/packets"
-	"xcthings.com/pprpc/ppudp"
+	"github.com/pprpc/util/logs"
+	"github.com/pprpc/packets"
+	"github.com/pprpc/ppudp"
 )
 
 // UDPCliConn PPRPC TCP 连接.

@@ -6,9 +6,9 @@ import (
 	"fmt"
 	"net"
 
-	"xcthings.com/pprpc/sess"
+	"github.com/pprpc/sess"
 
-	"xcthings.com/hjyz/logs"
+	"github.com/pprpc/util/logs"
 )
 
 type sendPkg struct {
